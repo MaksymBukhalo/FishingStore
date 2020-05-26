@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FishingStore.FishingRod" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAAAAAAEAQAAAAAAEAAIAAAAAABAAQ=</HashCode>
+      <FileName>FishingRod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.Fiderni" Collapsed="true">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAA=</HashCode>
+      <FileName>Fiderni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.ExampleBackground" Collapsed="true">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExampleBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.DeleteForm" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAACAQABAAAACAAQACAAAABAAAAAAAAAAAAAI=</HashCode>
+      <FileName>DeleteForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.MainMenu" Collapsed="true">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAABAAiAQQAEAAACAAAICAgEBAAAAgAAgEAIAAAA=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.Makhovi" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAEAgA=</HashCode>
+      <FileName>Makhovi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.Matchevy" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAIAAAAAAEAAA=</HashCode>
+      <FileName>Matchevy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.Poplavkovi" Collapsed="true">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAEAgA=</HashCode>
+      <FileName>Poplavkovi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.Spining" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAMAAA=</HashCode>
+      <FileName>Spining.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.Winter" Collapsed="true">
+    <Position X="13" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAEAgA=</HashCode>
+      <FileName>Winter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.ProductPageCreation" Collapsed="true">
+    <Position X="1.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBQEACACAQCBAAIACAIBACABAMAIEAAABEQCgAQAA=</HashCode>
+      <FileName>ProductPageCreation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.ProductPageExample" Collapsed="true">
+    <Position X="0.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAERCACCQABAAIACEIBACANAEAAAEAAAEAgAAQAE=</HashCode>
+      <FileName>ProductPageExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.SortForm" Collapsed="true">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAQgBAAAACQIBQCABAACIAAAABGACAAAAA=</HashCode>
+      <FileName>SortForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.TypeRod" Collapsed="true">
+    <Position X="1.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAwABAQAACAAAACAAAIAAAAAEAAAAAAAgA=</HashCode>
+      <FileName>TypeRod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FishingStore.Program" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
