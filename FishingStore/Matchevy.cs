@@ -23,6 +23,11 @@ namespace FishingStore
 			TipsСonnection = tipsСonnection;
 			ValueOptionalParameter = TipsСonnection;
 		}
+
+		public override string GetTypeRoad()
+		{
+			return "Матчеве";
+		}
 	}
 
 }

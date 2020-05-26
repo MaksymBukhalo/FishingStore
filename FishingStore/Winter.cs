@@ -22,6 +22,11 @@ namespace FishingStore
 			TipsBuild = tipsBuild;
 			ValueOptionalParameter = tipsBuild;
 		}
+
+		public override string GetTypeRoad()
+		{
+			return "Зимове";
+		}
 	}
 
 }

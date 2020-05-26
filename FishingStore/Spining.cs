@@ -22,5 +22,10 @@ namespace FishingStore
 			SpinningClas = spinningclas;
 			ValueOptionalParameter = spinningclas;
 		}
+
+		public override string GetTypeRoad()
+		{
+			return "Спінінгове";
+		}
 	}
 }

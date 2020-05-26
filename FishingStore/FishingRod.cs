@@ -98,5 +98,10 @@ namespace FishingStore
 			Price = price;
 			Description = description;
 		}
+
+		public virtual string GetTypeRoad()
+		{
+			return "Тип вудилища";
+		}
 	}
 }

@@ -21,5 +21,10 @@ namespace FishingStore
 			FiderBuild = fiderbuild;
 			ValueOptionalParameter = FiderBuild;
 		}
+
+		public override string GetTypeRoad()
+		{
+			return "Фідерне";
+		}
 	}
 }

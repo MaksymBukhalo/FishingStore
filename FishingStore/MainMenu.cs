@@ -96,34 +96,34 @@ namespace FishingStore
 			productPage.rodLenght.Text = Convert.ToString(MainFishingRods[i].Lenght);
 			productPage.price.Text = Convert.ToString(MainFishingRods[i].Price);
 			productPage.valueOptionalParameter.Text = MainFishingRods[i].ValueOptionalParameter;
-			switch (MainFishingRods[i].GetType().Name)
+			switch (MainFishingRods[i].GetTypeRoad())
 			{
-				case "Spining":
+				case "Спінінгове":
 					Spining spining = new Spining();
 					productPage.typeRod.Text = spining.TypeRod;
 					productPage.optionalParameter.Text = spining.SpinningClasName;
 					break;
-				case "Fiderni":
+				case "Фідерне":
 					Fiderni fiderni = new Fiderni();
 					productPage.typeRod.Text = fiderni.TypeRod;
 					productPage.optionalParameter.Text = fiderni.FiderBuildName;
 					break;
-				case "Poplavkovi":
+				case "Поплавкове":
 					Poplavkovi poplavkovi = new Poplavkovi();
 					productPage.typeRod.Text = poplavkovi.TypeRod;
 					productPage.optionalParameter.Text = poplavkovi.TipsBuildName;
 					break;
-				case "Makhovi":
+				case "Махове":
 					Makhovi makhovi = new Makhovi();
 					productPage.typeRod.Text = makhovi.TypeRod;
 					productPage.optionalParameter.Text = makhovi.TipsBuildName;
 					break;
-				case "Matchevy":
+				case "Матчеве":
 					Matchevy matchevy = new Matchevy();
 					productPage.typeRod.Text = matchevy.TypeRod;
 					productPage.optionalParameter.Text = matchevy.TipsСonnectionName;
 					break;
-				case "Winter":
+				case "Зимове":
 					Winter winter = new Winter();
 					productPage.typeRod.Text = winter.TypeRod;
 					productPage.optionalParameter.Text = winter.TipsBuildName;
